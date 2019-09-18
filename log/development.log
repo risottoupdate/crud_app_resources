@@ -78,3 +78,5 @@ Processing by UsersController#edit as HTML
 Completed 200 OK in 31ms (Views: 15.0ms | ActiveRecord: 0.6ms | Allocations: 8090)
 
 
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /Users/yuki-nagaoka/.rbenv/versions/2.6.0/bin/rake:23)
